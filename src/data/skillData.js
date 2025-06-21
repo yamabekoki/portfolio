@@ -29,6 +29,42 @@ export const skillData = [
   },
   {
     id: crypto.randomUUID(),
+    technology: 'Ruby',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Go',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Java',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'C#',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'R',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Swift',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Python',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Typescript',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'PHP',
+  },
+  {
+    id: crypto.randomUUID(),
     technology: 'Styled-Components',
   },
   {
@@ -41,15 +77,23 @@ export const skillData = [
   },
   {
     id: crypto.randomUUID(),
-    technology: 'NPM',
-  },
-  {
-    id: crypto.randomUUID(),
     technology: 'Framer-Motion',
   },
   {
     id: crypto.randomUUID(),
-    technology: 'Inkscape',
+    technology: 'NPM',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'C++',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Notion',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Wix',
   },
   {
     id: crypto.randomUUID(),
@@ -57,10 +101,46 @@ export const skillData = [
   },
   {
     id: crypto.randomUUID(),
-    technology: 'Vite',
+    technology: 'React Native	',
+  },
+    {
+    id: crypto.randomUUID(),
+    technology: 'Studio',
+  },
+    {
+    id: crypto.randomUUID(),
+    technology: 'Kotlin',
   },
   {
     id: crypto.randomUUID(),
     technology: 'Figma',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Vue',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Kintone',
+  },
+      {
+    id: crypto.randomUUID(),
+    technology: 'Salesforce',
+  },
+    {
+    id: crypto.randomUUID(),
+    technology: 'Laravel',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Flutter',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Rust',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Woocommerce',
   },
 ];
