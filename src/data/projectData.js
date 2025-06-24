@@ -98,4 +98,34 @@ export const projectData = [
     mobileUrl: 'projects/10.png',
     livelink: 'https://runwayml.com/',
   },  
+  {
+    id: crypto.randomUUID(),
+    title: 'zaiko',
+    description:
+      'Zaikoは、「クリエイターがファンと直接つながる」ことを目的とした日本発のデジタルイベントプラットフォームです。主な特徴は以下のとおりです：/電子チケット販売＆ライブストリーミング　大小問わずオンライン／オフラインイベントに対応し、ライブ配信や事前収録ビデオ、予約・抽選など多様なチケッティング機能を提供/デジタルコンテンツ販売「STICKITS」や「Digitama（デジタル魂）」と呼ばれるNFTを販売し、デジタルグッズの収益化を実現...',
+    technologies: ['React／Laravel', 'Curvegrid連携 NFT', 'Wordpress', 'React Native', "Laravel(PHP)"],
+    imageUrl: 'projects/11.png',
+    mobileUrl: 'projects/11.png',
+    livelink: 'https://zaiko.io',
+  },  
+    {
+    id: crypto.randomUUID(),
+    title: 'システム幹事',
+    description:
+      "こちらのページは、“PoC に対応しているシステム開発会社9選【2025年最新版】”と題された、日本国内の中小〜中堅企業が提供するPoC（Proof of Concept）支援サービスの紹介記事です。",
+    technologies: ['PHP／HTML／CSS／JavaScript', 'Hyperledger Fabric', 'EC-CUBE（PHPベース）', 'WordPress(PHP+MySQL)'],
+    imageUrl: 'projects/12.png',
+    mobileUrl: 'projects/12.png',
+    livelink: 'https://system-kanji.com/posts/proof-of-concept',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'Heroes',
+    description:
+      '「Brave Frontier Heroes」は、ドット絵スタイルのNFTバトルRPGで、ブロックチェーン技術を活用してゲーム内アイテムやキャラクターの所有権をNFTとして提供しています。日本発の中小規模のブロックチェーンゲームで、ユーザーが戦略的なバトルを楽しみつつ、NFTによる資産管理が可能なゲームプラットフォームです。ゲーム内資産はブロックチェーン上で管理されるため、ユーザー間の安全な取引や所有権の明確化が実現されています。',
+    technologies: ['Ethereum系チェーン(Polygonなど),', 'ERC-721', 'Node.js + Express / NestJS', "React.js/Next.js"],
+    imageUrl: 'projects/13.png',
+    mobileUrl: 'projects/13.png',
+    livelink: 'https://bravefrontierheroes.com/',
+  },  
 ];

@@ -125,7 +125,7 @@ export const skillData = [
   },
       {
     id: crypto.randomUUID(),
-    technology: 'Salesforce',
+    technology: 'Curvegrid連携 NFT',
   },
     {
     id: crypto.randomUUID(),
@@ -141,6 +141,27 @@ export const skillData = [
   },
   {
     id: crypto.randomUUID(),
+    technology: 'Salesforce',
+  },
+      {
+    id: crypto.randomUUID(),
     technology: 'Woocommerce',
   },
+  {
+    id: crypto.randomUUID(),
+    technology: 'Hyperledger Fabric',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'EC-CUBE',
+  },
+  {
+    id: crypto.randomUUID(),
+    technology: 'ERC-721',
+  },
+    {
+    id: crypto.randomUUID(),
+    technology: 'Ethereum系チェーン(Polygonなど)',
+  },
+
 ];
