@@ -128,4 +128,34 @@ export const projectData = [
     mobileUrl: 'projects/13.png',
     livelink: 'https://bravefrontierheroes.com/',
   },  
+  {
+    id: crypto.randomUUID(),
+    title: 'Android',
+    description:
+      'このサイトは、LINE公式アカウント向けのAIチャットボット構築方法を解説する記事で、開発者や中小企業のマーケティング担当者向けに、ユーザー対応の自動化やCRM連携の実装をサポートすることを目的としています。商用SaaSやAPIプロバイダではなく、技術ガイドの一環です。',
+    technologies: ['AIチャットボット', 'Botpress', "LINE Messaging API"],
+    imageUrl: 'projects/14.png',
+    mobileUrl: 'projects/14.png',
+    livelink: 'https://www.airdroid.com/ai-insights/chatbots-for-line/',
+  },  
+    {
+    id: crypto.randomUUID(),
+    title: 'clutch',
+    description:
+      "このサイトは、日本を含む世界中のソフトウェア開発会社（特にAI・チャットボット開発）を検索・比較するためのB2B企業情報ディレクトリです。ユーザー（企業の発注者）が、自社の課題に適した開発パートナーを探すために使用します。",
+    technologies: ['AI / チャットボット', 'Django', 'Laravel'],
+    imageUrl: 'projects/15.png',
+    mobileUrl: 'projects/15.png',
+    livelink: 'https://clutch.co/jp/developers/artificial-intelligence/chatbots',
+  },
+  {
+    id: crypto.randomUUID(),
+    title: 'commercepick',
+    description:
+      'EC事業者向けに、最新のEC関連ニュース、販促ノウハウ、便利ツールの紹介、業界動向を提供する情報プラットフォーム。EC運営の成功事例や商品レビュー、マーケティング、ITツール紹介なども豊富。EC初心者から運営者まで幅広い層に役立つコンテンツを配信。',
+    technologies: ['Google Analytics,', 'SEO', 'JavaScript（ReactやjQuery）'],
+    imageUrl: 'projects/16.png',
+    mobileUrl: 'projects/16.png',
+    livelink: 'https://www.commercepick.com/archives/',
+  },  
 ];
