@@ -163,5 +163,8 @@ export const skillData = [
     id: crypto.randomUUID(),
     technology: 'Ethereum系チェーン(Polygonなど)',
   },
-
+  {
+    id: crypto.randomUUID(),
+    technology: 'AI / チャットボット',
+  },
 ];
